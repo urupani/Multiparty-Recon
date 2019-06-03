@@ -124,11 +124,6 @@ public class MultipartyReconController {
 	}
 	
 	
-		
-	@GetMapping(path="/bank")
-	public void printHello () {
-		System.out.println("Hello!");
-	}
 	
 		
 	@GetMapping(path="/getall")
